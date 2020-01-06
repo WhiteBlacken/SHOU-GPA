@@ -8,7 +8,7 @@
   ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/1.png)
   2. 打开`开发者模式`
   ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/2.png)
-  3. 点击`加载已解压的扩展程序`,选中下载下来的整个文件夹
+  3. 点击`加载已解压的扩展程序`,选中下载下来的整个文件夹（要解压）
   ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/3.png)
   4. 插件安装完成
   ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/4.png)
