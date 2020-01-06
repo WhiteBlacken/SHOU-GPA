@@ -15,14 +15,15 @@ bt.onclick = function () {                          //绑定点击事件
           if (reasonsForFail.indexOf("缓考") != -1) {	//如果有缓考科目，不计入总绩点，跳出这一行
                continue;
           }
-
+          
+          var scoreTxt = _cell[8].innerText; //获取成绩
           //还未出成绩，跳出这一行
           if (scoreTxt.length == 0) {
                continue;
           }
 
           xuefen = parseFloat(_cell[3].innerHTML); //获取学分
-          var scoreTxt = _cell[8].innerText; //获取成绩
+          
           allXuefenNum = allXuefenNum + xuefen;
           var score = parseFloat(scoreTxt);
 
