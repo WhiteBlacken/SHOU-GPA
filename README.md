@@ -4,15 +4,15 @@
 故写了一个简单的小插件，对本学期绩点计算做了一点小小的简化。
 * 使用方法（以chrome浏览器为例）
   1. 找到`扩展程序`
-  ![img](\https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/1.png)
+  ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/1.png)
   2. 打开`开发者模式`'
-  ![img](\https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/2.png)
+  ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/2.png)
   3. 点击`加载已解压的扩展程序`,选中下载下来的整个文件夹
-  ![img](\https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/3.png)
+  ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/3.png)
   4. 插件安装完成
-  ![img](\https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/4.png)
+  ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/4.png)
   5. 进入到SHOU-urp，选择`本学期成绩`,可以看到有查看绩点按钮，点击即可
-  ![img](\https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/5.png)
+  ![img](https://github.com/WhiteBlacken/MypostImage/raw/master/SHOU-GPA/5.png)
 * 注意事项
   1. 一次安装，之后均可使用
   2. 若要在不同浏览器上使用，需要在各个浏览器上均安装
