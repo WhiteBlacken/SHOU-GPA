@@ -1,4 +1,4 @@
-﻿var MyDiv = document.getElementById("page-content-template");
+var MyDiv = document.getElementById("page-content-template");
 var bt = document.createElement("button");           //createElement生成button对象
 bt.innerHTML = '查看绩点';
 bt.onclick = function () {                          //绑定点击事件
@@ -28,7 +28,7 @@ bt.onclick = function () {                          //绑定点击事件
           var score = parseFloat(scoreTxt);
 
           //绩点换算
-          if (score === NaN) {	//如果score为NaN，说明scoreTxt读取到的是五分or两分计分制
+          if (scoreTxt == "优秀" || scoreTxt == "良好" || scoreTxt == "通过" || scoreTxt == "中等" || scoreTxt == "及格" || scoreTxt == "不及格" || scoreTxt == "不通过") {	//如果score为NaN，说明scoreTxt读取到的是五分or两分计分制
                //五分or两分计分制换算成绩点
                if (scoreTxt == "优秀") {
                     var gpa = 4.0;

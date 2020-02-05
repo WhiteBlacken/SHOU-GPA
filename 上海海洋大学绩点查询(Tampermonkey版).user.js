@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         上海海洋大学绩点查询
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @icon         https://github.com/yuebanquan/SHOU-GPA/blob/master/6969.png?raw=true
 // @description  上海海洋大学URP本学期绩点查询
 // @author       yuebanquan
@@ -44,7 +44,7 @@
             var score = parseFloat(scoreTxt);
 
             //绩点换算
-            if (score === NaN) {	//如果score为NaN，说明scoreTxt读取到的是五分or两分计分制
+            if (scoreTxt == "优秀" || scoreTxt == "良好" || scoreTxt == "通过" || scoreTxt == "中等" || scoreTxt == "及格" || scoreTxt == "不及格" || scoreTxt == "不通过") {	//scoreTxt读取到的是五分or两分计分制
                 //五分or两分计分制换算成绩点
                 if (scoreTxt == "优秀") {
                     var gpa = 4.0;
