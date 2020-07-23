@@ -4,18 +4,18 @@
 故写了一个简单的小插件，对本学期绩点计算做了一点小小的简化。  
 *图片加载可以会比较慢，可以直接按照文字提示进行操作*
 * 使用方法（以chrome浏览器为例）
-    * 如果浏览器有Tampermonkey的话,进入这个网站安装此脚本即可使用[插件地址](https://greasyfork.org/zh-CN/scripts/394729-%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E7%BB%A9%E7%82%B9%E6%9F%A5%E8%AF%A2)
+    * 如果浏览器有`Tampermonkey`的话,进入这个网站安装此脚本即可使用[插件地址](https://greasyfork.org/zh-CN/scripts/394729-%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E7%BB%A9%E7%82%B9%E6%9F%A5%E8%AF%A2)
   ---
   1. 找到`扩展程序`
-  ![img](/GPA-pic/1.png)
+  ![img](https://s1.ax1x.com/2020/07/23/ULWoe1.png)
   2. 打开`开发者模式`
-  ![img](/GPA-pic/2.png)
+    ![img](https://s1.ax1x.com/2020/07/23/ULW4y9.png)
   3. 点击`加载已解压的扩展程序`,选中下载下来的整个文件夹（要解压）
-  ![img](/GPA-pic/3.png)
+    ![img](https://s1.ax1x.com/2020/07/23/ULWTdx.png)
   4. 插件安装完成
-  ![img](/GPA-pic/4.png)
+    ![img](https://s1.ax1x.com/2020/07/23/ULWhQJ.png)
   5. 进入到SHOU-urp，选择`本学期成绩`,可以看到有查看绩点按钮，点击即可
-  ![img](/GPA-pic/5.png)
+    ![img](https://s1.ax1x.com/2020/07/23/ULftmR.png)
   
 * 注意事项
   1. 一次安装，之后均可使用
