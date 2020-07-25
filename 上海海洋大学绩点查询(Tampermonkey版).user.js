@@ -2,7 +2,7 @@
 // @name         上海海洋大学绩点查询
 // @namespace    http://tampermonkey.net/
 // @version      1.5
-// @icon         https://s1.ax1x.com/2020/07/24/UX8ngg.png
+// @icon         https://s1.ax1x.com/2020/07/24/UvCVL4.jpg
 // @description  上海海洋大学URP本学期绩点查询
 // @author       yuebanquan
 // @match        http*://urp.shou.edu.cn/student/integratedQuery/scoreQuery/thisTermScores/index
